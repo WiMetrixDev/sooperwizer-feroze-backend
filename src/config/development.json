@@ -1,0 +1,17 @@
+{
+  "env": "development",
+  "dbConfig": {
+    "user": "sa",
+    "password": "spts@3311",
+    "server": "10.0.0.9",
+    "port": 1433,
+    "database": "SooperWizer",
+    "encrypt": false,
+    "trustServerCertificate": true,
+    "pool": {
+      "max": 10,
+      "min": 0,
+      "idleTimeoutMillis": 30000
+    }
+  }
+}

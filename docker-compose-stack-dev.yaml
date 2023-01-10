@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+ SooperwizerBackendSQL-local-dev:
+    image: sooperwizerbackendsqldemo-dev:latest
+    ports:
+      - "5070:5000"
+    deploy:
+      replicas: 1
+    
