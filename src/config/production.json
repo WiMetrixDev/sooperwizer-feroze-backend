@@ -3,7 +3,7 @@
   "dbConfig": {
     "user": "sa",
     "password": "spts@3311",
-    "server": "10.0.0.9",
+    "server": "172.16.39.200",
     "port": 1433,
     "database": "SooperWizer",
     "encrypt": false,
